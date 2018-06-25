@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="user-details">
+        <h3>More Projects</h3>
+    </div>  
+    <ul>
+        {% for project in site.data.projects %}
+          <li>
+            <a class="other-projects-link" href="{{ project.url }}">{{ project.title }}</a>
+            <p>{{ project.description }}</p>
+          </li>
+        {% endfor %}
+    </ul>
+</div>
