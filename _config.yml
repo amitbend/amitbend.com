@@ -1,10 +1,9 @@
 # Site settings
 title: Amit Bendor
-description: Amit Bendor, Entrepreneur and chatbot consultant, Leader of The Israeli Bots community & Co-Hosting the "Making software" Podcast 
+description: Entrepreneur and chatbot consultant, Leader of The Israeli Bots community & Co-Hosting the "Making software" Podcast 
 keywords: "Bots, Chatbot, Voicebot, Actions on google, Google assistant, skills, Cortana, Amit , Bendor ,CTO"
 author: "Amit Bendor"
 url: "https://amitbend.com"
-#url: "http://localhost:3000"
 
 # User settings
 username: Amit BenDor  

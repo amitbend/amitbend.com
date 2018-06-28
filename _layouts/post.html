@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+
+    <head>
+            <link rel="stylesheet" href="{{ "/assets/css/posts.css" | prepend: site.baseurl }}">
+    </head>
+
+    <body>
+
+            <div id="header">
+                    <div id="header__content">
+                      <div id="header__info">
+                        <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+                        <p>{{site.description}}</p>
+                        <img src="{{ site.baseurl }}/assets/img/me2.png" alt="avatar">
+                      </div>
+                      <ul id="header__nav">
+                        <li><a href="{{ site.baseurl }}/">Home</a></li>
+                      </ul>
+                    </div>
+                  </div>
+
+    <div id="content">
+
+        <div id="content__column">
+                <div id="single">
+                        <h2 class="single__title">{{ page.title }}</h2>
+                        <span class="single__date">{{ page.date | date: "%b %-d, %Y" }}</span> 
+                        {{ content }}
+                      </div>
+        </div>
+    </div>
+    {% include footer.html %}
+
+  </body>
+  </html>
+
+
