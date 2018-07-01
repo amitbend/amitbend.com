@@ -18,5 +18,7 @@ stackoverflow_url: 4156209/amit-be
 google-analytics:
   id: "UA-121328300-1"
 
+sass:
+    style: compressed
 
 exclude: ['package.json', 'src' , 'node_modules']

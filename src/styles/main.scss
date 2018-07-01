@@ -247,6 +247,9 @@ body {
   @media only screen and (min-width: $cut) {
     float: right;
     max-width: 200px;
+    height: auto;
+    width: 100%;
+
   }
   img {
     @media only screen and (min-width: $cut) {
@@ -261,11 +264,16 @@ body {
     margin-right: 1.5em;
     @include border-radius(5px);
     max-width: 180px;
+    width: 100%;
+    height: auto;
+
   }
   img {
     @media only screen and (min-width: $cut) {
       float: left;
       max-width: 180px;
+      width: 100%;
+      height: auto;
     }
   }
 }
