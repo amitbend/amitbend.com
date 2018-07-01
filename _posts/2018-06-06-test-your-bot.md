@@ -3,6 +3,9 @@ layout: post
 title:  "How to setup a comfortable Chatbot testing environment"
 date:   2018-06-06 16:16:01 -0600
 categories: Chatbots
+seo:
+    type: BlogPosting
+    name: "How to setup a comfortable Chatbot testing environment"
 ---
 
 # How to setup a comfortable Chatbot testing environment

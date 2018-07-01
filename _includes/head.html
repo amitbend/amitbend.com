@@ -3,10 +3,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <!-- <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> -->
+  <!-- <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 180 }}{% else %}{{ site.description }}{% endif %}"> -->
   <meta name="keywords" content="{{site.keywords}}">
-  <meta name="author" content="{{site.author}}">
+  <!-- <meta name="author" content="{{site.author}}"> -->
   
  
   <!-- favicon -->
@@ -16,25 +16,29 @@
   <link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png" />
 
       <!-- Social: Facebook / Open Graph -->
-      <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+      <!-- <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
       <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
       {% if page.image %}
       <meta property="og:image" content="{{ site.url }}{{page.image }}">
       {% else %}
-      <meta property="og:image" content="{{ "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url }}">
+      <meta property="og:image" content="{{ "/assets/img/me2.png" | prepend: site.baseurl | prepend: site.url }}">
       {% endif %}
       <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
       <meta property="og:site_name" content="{{ site.title }}">
+
+      <meta property="og:locale" content="en_US" /> -->
+      <meta property="og:type" content="website">
   
       <!-- Social: Google+ / Schema.org  -->
-      <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+      <!-- <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
       <meta itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
       <meta itemprop="image" content="{{ "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url }}"/>
-  
+   -->
 
   <!-- <link rel="manifest" href="/site.webmanifest"> -->
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
   <link rel="stylesheet" href="//cdn.rawgit.com/konpa/devicon/master/devicon.min.css">
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+  {% seo %}
 </head>

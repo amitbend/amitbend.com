@@ -21,4 +21,17 @@ google-analytics:
 sass:
     style: compressed
 
+plugins:
+  - jekyll-seo-tag
+
+# seo
+facebook:
+  app_id: 1252810241395987
+  publisher: 1638322646389732
+  admins: 1039746660
+
+
+
+# logo:
+
 exclude: ['package.json', 'src' , 'node_modules']
