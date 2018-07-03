@@ -300,6 +300,17 @@ p {
   }
 }
 
+.preview-post {
+  a{
+    text-decoration: none;
+  }
+  .post-date , .post-words{
+    font-size: 1.3rem;
+    color: $base;
+  }
+
+}
+
 .project-link {
   display: block;
   width: 100px;
