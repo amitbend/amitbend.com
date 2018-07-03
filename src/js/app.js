@@ -3,23 +3,24 @@ document.addEventListener("DOMContentLoaded", function () {
   const sweetScroll = new SweetScroll({/* some options */});
 
   /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-  particlesJS('particles-js', {
+  particlesJS('particles-js', 
+  {
     "particles": {
       "number": {
-        "value": 15,
+        "value": 70,
         "density": {
           "enable": true,
           "value_area": 800
         }
       },
       "color": {
-        "value": "#0D2333"
+        "value": "0D2333"
       },
       "shape": {
         "type": "circle",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": "#1B9C82"
         },
         "polygon": {
           "nb_sides": 5
@@ -31,44 +32,44 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "opacity": {
-        "value": 0.5,
+        "value": 1,
         "random": true,
         "anim": {
-          "enable": false,
+          "enable": true,
           "speed": 1,
-          "opacity_min": 0.1,
+          "opacity_min": 0,
           "sync": false
         }
       },
       "size": {
-        "value": 10,
+        "value": 3,
         "random": true,
         "anim": {
           "enable": false,
-          "speed": 40,
-          "size_min": 0.1,
+          "speed": 4,
+          "size_min": 0.3,
           "sync": false
         }
       },
       "line_linked": {
-        "enable": false,
-        "distance": 500,
-        "color": "#ffffff",
-        "opacity": 0.4,
+        "enable": true,
+        "distance": 25,
+        "color": "#CEAB67",
+        "opacity": 0.9,
         "width": 2
       },
       "move": {
         "enable": true,
-        "speed": 6,
-        "direction": "bottom",
-        "random": false,
+        "speed": 1,
+        "direction": "none",
+        "random": true,
         "straight": false,
         "out_mode": "out",
         "bounce": false,
         "attract": {
           "enable": false,
           "rotateX": 600,
-          "rotateY": 1200
+          "rotateY": 600
         }
       }
     },
@@ -89,18 +90,18 @@ document.addEventListener("DOMContentLoaded", function () {
         "grab": {
           "distance": 400,
           "line_linked": {
-            "opacity": 0.5
+            "opacity": 1
           }
         },
         "bubble": {
-          "distance": 400,
-          "size": 4,
-          "duration": 0.3,
-          "opacity": 1,
+          "distance": 250,
+          "size": 0,
+          "duration": 2,
+          "opacity": 0,
           "speed": 3
         },
         "repulse": {
-          "distance": 170.53621458328246,
+          "distance": 400,
           "duration": 0.4
         },
         "push": {

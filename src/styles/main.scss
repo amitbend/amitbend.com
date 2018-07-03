@@ -209,7 +209,7 @@ body {
     color: #FFF;
   }
   p {
-    font-size: 16px;
+    font-size: 1.7rem;
   }
   @media only screen and (min-width: $cut) {
     font-size: 75px;
@@ -223,12 +223,20 @@ body {
   color: #FFF;
 }
 
+p {
+    font-size: 1.7rem;
+}
+
 .user-projects {
   margin: 40px auto;
   img {
     max-width: 100%;
     height: auto;
     border-radius: 5px;
+    float: right;
+    max-width: 200px;
+    height: auto;
+    width: 100%;
   }
   h5 {
     margin: 0;
@@ -236,10 +244,11 @@ body {
   }
   li {
     color: $base;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
   }
   p {
     margin-right: 5px;
+    font-size: 1.7rem;
   }
 }
 
@@ -277,6 +286,13 @@ body {
     }
   }
 }
+
+.container {
+  margin: 5em auto;
+  // max-width: 600px;
+}
+
+
 
 .contents {
   @media only screen and (min-width: $cut) {
