@@ -23,6 +23,7 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-assets
 
 # seo
 facebook:
