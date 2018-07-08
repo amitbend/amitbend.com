@@ -25,6 +25,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-assets
 
+# image optim
+assets:
+  plugins:
+    img:
+      optim:
+        {}
+
 # seo
 facebook:
   app_id: 1252810241395987
