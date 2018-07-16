@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     {% include head.html %}
-
+    <link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url | append: '.html' }}">
     <head>
             <link rel="stylesheet" href="{{ "/assets/css/posts.css" | prepend: site.baseurl }}">
     </head>

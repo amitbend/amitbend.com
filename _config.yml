@@ -24,6 +24,7 @@ sass:
 plugins:
   - jekyll-seo-tag
   - jekyll-assets
+  - amp-jekyll
 
 # image optim
 assets:
