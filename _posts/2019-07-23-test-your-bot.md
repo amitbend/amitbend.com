@@ -65,6 +65,7 @@ I believe we will see a tight fight between the two, as a jump in content (bette
 <div style="width:50%">
 ![Google Home]({{ "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GlQgQTpNXk7LEFl65c377IDr-8oIqpzOrEctlo_h4ROlMKJm" | width=100 }})
 </div>
+
 <div style="width:50%">
 ![Amazon Alexa]({{ "https://c1.staticflickr.com/5/4777/40095307924_1ffbfd6bef_b.jpg" | width=100 }})
 </div>
