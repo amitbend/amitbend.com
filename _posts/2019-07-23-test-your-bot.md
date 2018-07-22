@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Amazon Alexa vs. Google Assistant | Popularity"
+title:  "Amazon Alexa vs. Google Assistant | Popularity Test"
 date:   2018-07-23 16:16:01 -0600
 categories: Chatbots
 seo:
     type: BlogPosting
-    name: "Amazon Alexa vs. Google Assistant | Popularity"
+    name: "Amazon Alexa vs. Google Assistant | Popularity Test"
 ---
 
 # Amazon Alexa vs. Google Assistant, who is more popular?
