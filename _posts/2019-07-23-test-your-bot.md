@@ -51,6 +51,7 @@ Regarding Google actions vs. Alexa Skills, we can see a tight fight, as the tren
 <br />
 <br />
 
+___
 
 ## Products sold
 
