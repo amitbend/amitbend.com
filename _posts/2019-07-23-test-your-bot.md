@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Amazon Alexa vs. Google Assistant | Popularity"
+date:   2018-07-23 16:16:01 -0600
+categories: Chatbots
+seo:
+    type: BlogPosting
+    name: "Amazon Alexa vs. Google Assistant | Popularity"
+---
+
 # Amazon Alexa vs. Google Assistant, who is more popular?
 
 I took for a test the two market-leading assistants - Google Assistant (Google home) 
@@ -18,11 +28,19 @@ It seems like Google was lagging a bit when Alexa took a huge market share at th
 Alexa had a huge jump around Dec 17, Google had theirs later around May 18 (a slightly more moderate jump).
 As of today, it seems like they are pretty much equal.
 
+
+
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1480_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"google assistant","geo":"US","time":"today 12-m"},{"keyword":"amazon alexa","geo":"US","time":"today 12-m"},{"keyword":"chatbot","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=google%20assistant,amazon%20alexa,chatbot&date=today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+
+
 
 Regarding Google actions vs. Alexa Skills, we can see a tight fight, as the trends are changing directions constantly
 
+
+
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1480_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"google actions","geo":"US","time":"today 12-m"},{"keyword":"amazon skills","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=google%20actions,amazon%20skills&date=today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+
+
 
 ## Products sold
 
