@@ -26,6 +26,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-assets
   - amp-jekyll
+  - jekyll-feed
 
 # image optim
 assets:

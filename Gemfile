@@ -9,3 +9,4 @@ gem "jekyll-assets"
 gem "image_optim"
 gem "image_optim_bin"
 gem "amp-jekyll"
+gem 'jekyll-feed'
