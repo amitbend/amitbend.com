@@ -6,6 +6,9 @@ layout: null
 	  <url>
 		<loc>{{ site.baseurl | prepend: site.url  }}</loc>
 	  </url>
+		<url>
+		<loc>https://amitbend.com/yesodot</loc>
+	  </url>
 	{% for post in site.posts %}
 	  <url>
 		<loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
