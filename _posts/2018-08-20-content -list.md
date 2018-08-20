@@ -22,3 +22,13 @@ ___
 
 * "Ways To Get People To Do Things They Don’t Want To Do"  @NirEyal
 https://betterhumans.coach.me/ways-to-get-people-to-do-things-they-dont-want-to-do-e83bdd0d1ab6
+
+
+___
+
+
+
+## Frontend Development 
+
+* "The New Responsive Design Evolution | Responsive Design, You Got It All Wrong!" @elad
+https://medium.com/@elad/the-new-responsive-design-evolution-2bfb9b504a4e
