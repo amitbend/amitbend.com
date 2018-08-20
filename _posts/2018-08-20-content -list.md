@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Content Recommendations | Behaviour science, Tech, Voice"
-date:   2018-08-21 16:16:01 -0600
+date:   2018-08-19 16:16:01 -0600
 categories: General
 seo:
     type: BlogPosting
