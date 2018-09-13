@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Amazon Alexa vs. Google Assistant | Popularity Test"
+title:  "Amazon Alexa vs. Google Assistant | Popularity Test (September 2018)"
 date:   2018-07-23 16:16:01 -0600
 categories: Chatbots
 seo:
@@ -16,6 +16,8 @@ and the Amazon Alexa (Amazon Echo).
 Both of those companies are pushing their assistants' very aggressively, In means of new devices where they are available, new features and tools for developers to extend the abilities of their products.
 
 <br />
+
+![Smart speaker U.S. Installed base market share](https://46ba123xc93a357lc11tqhds-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/smart-speaker-installed-base-sept-2018-01-v2.png)
 
 
 ## Voice assistants are the new search engines
