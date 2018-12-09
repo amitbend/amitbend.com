@@ -7,6 +7,7 @@ var plumber = require('gulp-plumber');
 var cp = require('child_process');
 var imagemin = require('gulp-imagemin');
 var browserSync = require('browser-sync');
+var download = require('gulp-download');
 
 var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
 
@@ -76,5 +77,9 @@ gulp.task('watch', function() {
   gulp.watch(['*html', '_includes/*html', '_layouts/*.html'], ['jekyll-rebuild']);
 });
 
+gulp.task('fetch-newest-analytics', function() {
+    return download('https://www.google-analytics.com/analytics.js')
+        .pipe(gulp.dest('assets/js/'));
+});
 
-gulp.task('default', ['js', 'sass', 'browser-sync', 'watch']);
+gulp.task('default', ['js', 'sass', 'browser-sync','fetch-newest-analytics', 'watch']);
