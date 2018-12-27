@@ -35,27 +35,3 @@ ___
 
 
 
-___
-
-## Rasa Resources
-
-* UI for Rasa (mostly NLU) 
-[link](https://github.com/paschmann/rasa-ui)
-
-* A simple UI for NLU trainer 
-[link](https://github.com/RasaHQ/rasa-nlu-trainer)
-
-* Articulate - A "Dialogflow like" interface for Rasa 
-[link](https://github.com/samtecspg/articulate)
-
-* Input validation, Disambiguation, Intent Substitution,Filter entities - For Rasa Core 
-[link](https://github.com/mrbot-ai/rasa-addons)
-
-* Clofus® Chat Bot Platform - Multi bot platform (with enhancements) based on Rasa NLU/Core
-[link](https://github.com/clofus/clofus-chatbot)
-
-* A rasa_core Interpreter that sources intent data from dialogflow.com API v2. This means you can run rasa_core and do Natural Language Understanding using Dialogflow.
-[link](https://github.com/m90/rasa-dialogflow-interpreter)
-
-* Django-Rasa-BotUI - Integrating Rasa Core with Django backend and finally using Webchat for chatbot user interface
-[link](https://github.com/Alexmhack/Django-Rasa-Bot)
