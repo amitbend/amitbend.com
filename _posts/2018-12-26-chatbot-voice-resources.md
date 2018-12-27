@@ -63,5 +63,7 @@ ___
 * Simple framework that allows for easy testing of a botbuiler chatbot using mocha and chai.
 [link](https://github.com/microsoftly/BotTester)
 
+### others
+
 * Chatbot directory (chatbots.org)
 [link](https://chatbots.org)
