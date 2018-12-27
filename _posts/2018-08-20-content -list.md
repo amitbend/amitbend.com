@@ -21,8 +21,7 @@ ___
 * “How Technology is Hijacking Your Mind — from a Former Insider” @tristanharris [link](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)
 
 
-* "Ways To Get People To Do Things They Don’t Want To Do"  @NirEyal
-[text](https://betterhumans.coach.me/ways-to-get-people-to-do-things-they-dont-want-to-do-e83bdd0d1ab6)
+* "Ways To Get People To Do Things They Don’t Want To Do"  @NirEyal [link](https://betterhumans.coach.me/ways-to-get-people-to-do-things-they-dont-want-to-do-e83bdd0d1ab6)
 
 
 
@@ -32,8 +31,8 @@ ___
 
 ## Frontend Development 
 
-* "The New Responsive Design Evolution | Responsive Design, You Got It All Wrong!" @elad
-https://medium.com/@elad/the-new-responsive-design-evolution-2bfb9b504a4e
+* "The New Responsive Design Evolution | Responsive Design, You Got It All Wrong!" @elad [link](https://medium.com/@elad/the-new-responsive-design-evolution-2bfb9b504a4e)
+
 
 
 ___
@@ -59,5 +58,4 @@ ___
 [link](https://github.com/m90/rasa-dialogflow-interpreter)
 
 * Django-Rasa-BotUI - Integrating Rasa Core with Django backend and finally using Webchat for chatbot user interface
-
 [link](https://github.com/Alexmhack/Django-Rasa-Bot)
