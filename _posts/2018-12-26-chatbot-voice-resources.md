@@ -31,16 +31,15 @@ If you've got something you'd like to share, send it to me me@amitbend.com
 * Clofus® Chat Bot Platform - Multi bot platform (with enhancements) based on Rasa NLU/Core
 [link](https://github.com/clofus/clofus-chatbot)
 
-* A rasa_core Interpreter that sources intent data from dialogflow.com API v2. This means you can run rasa_core and do Natural Language Understanding using Dialogflow.
+* A rasa_core Interpreter that sources intent data from dialogflow.com API v2. This means you can run rasa_core and do Natural Language Understanding using Dialogflow
 [link](https://github.com/m90/rasa-dialogflow-interpreter)
 
 * Django-Rasa-BotUI - Integrating Rasa Core with Django backend and finally using Webchat for chatbot user interface
-
 [link](https://github.com/Alexmhack/Django-Rasa-Bot)
 
 ___
 
-## Rasa Resources
+## Botframework Resources
 
 ### v3
 
