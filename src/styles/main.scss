@@ -233,7 +233,7 @@ p {
     max-width: 100%;
     height: auto;
     border-radius: 5px;
-    float: right;
+    // float: right;
     max-width: 200px;
     height: auto;
     width: 100%;
@@ -253,6 +253,7 @@ p {
 }
 
 .images {
+  float: none;
   @media only screen and (min-width: $cut) {
     float: right;
     max-width: 200px;
@@ -352,6 +353,56 @@ p {
     transition: color 0.3s ease-in, border-color 0.3s ease-in;
   }
 }
+
+.clients {
+  margin: 30px auto;
+  .client {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .logo {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    filter: rgb(255, 255, 255);
+    transition: all 1.2s;
+    &:hover {
+      opacity: 1;
+      -webkit-animation: flash 1.5s;
+      animation: flash 1.5s;
+    }
+    img {
+      object-fit: contain;
+      max-width: 200px;
+      height: 100px;
+      width: 100%;
+      @-webkit-keyframes flash {
+        0% {
+          opacity: .4;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+      @keyframes flash {
+        0% {
+          opacity: .4;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+    }
+  }
+  span {
+    color: #fff;
+    display: block;
+    font-size: 20px;
+  }
+
+}
+
+
 
 .footer {
   background: $background;
