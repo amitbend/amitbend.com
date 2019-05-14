@@ -13,6 +13,7 @@ seo:
 A curated list of voice and chatbot materials by me.
 If you've got something you'd like to share, send it to me me@amitbend.com
 
+---
 
 ## Rasa Resources
 
@@ -39,7 +40,11 @@ If you've got something you'd like to share, send it to me me@amitbend.com
 
 * Botfront - A visual and intuitive platform to build chatbots with Rasa
 [link](https://www.botfront.io/)
-___
+
+
+---
+
+
 
 ## Botframework Resources
 
