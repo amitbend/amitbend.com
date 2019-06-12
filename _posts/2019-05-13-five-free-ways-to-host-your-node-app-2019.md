@@ -24,7 +24,7 @@ information you need — so let’s go started!
 
 ### #1 — Openshift (Red Hat)
 
-**Highlights: **(What you get:)
+**Highlights:**
 
 * 2GB RAM, 2GB Persistent storage
 * Unlimited network
@@ -50,7 +50,7 @@ suitable for**: Small backend services, APIs, chatbots
 
 ### #2 — [Openode](https://www.openode.io/pricing) 
 
-**Highlights: **(What you get:)
+**Highlights:**
 
 * 100mb RAM, 1GB Persistent storage
 * Network: 10GB Bandwidth / Month
