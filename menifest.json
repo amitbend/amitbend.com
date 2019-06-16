@@ -1,0 +1,31 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Amit Bendor Chatbot & Voice Expert",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://amitbend.com/",
+    "short_name": "Amit Bendor Cha",
+    "theme_color": "transparent",
+    "description": "Entrepreneur and chatbot consultant, Leader of The Israeli Bots community & Co-Hosting the “Making software” Podcast",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/assets/img/favicon.ico",
+            "sizes": "16x16 32x32 48x48"
+        },
+        {
+            "src": "/assets/img/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/img/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        }
+    ]
+}
