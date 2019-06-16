@@ -43,6 +43,21 @@
   <link rel="stylesheet" href="//cdn.rawgit.com/konpa/devicon/master/devicon.min.css">
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
   {% seo title=false %}
-
-  <script src=""{{ "/serviceWorker1/pwabuilder-sw-register.js" | prepend: site.baseurl }}""
+<script>
+if ("serviceWorker" in navigator) {
+    if (navigator.serviceWorker.controller) {
+      console.log("[PWA Builder] active service worker found, no need to register");
+    } else {
+      // Register the service worker
+      navigator.serviceWorker
+        .register("pwabuilder-sw.js", {
+          scope: "./"
+        })
+        .then(function (reg) {
+          console.log("[PWA Builder] Service worker has been registered for scope: " + reg.scope);
+        });
+    }
+  }
+  </script>
+  <!-- <script src=""{{ "/serviceWorker1/pwabuilder-sw-register.js" | prepend: site.baseurl }}"" -->
 
