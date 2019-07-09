@@ -50,6 +50,9 @@ If you've got something you'd like to share, send it to me me@amitbend.com
 * Rasa Webchat - A chat widget easy to connect to chatbot platforms such as Rasa Core
 [link](https://github.com/mrbot-ai/rasa-webchat)
 
+* Web chat UI - UI for some chat application (not rasa specific)
+[link](https://github.com/bhavinjawade/Web-Chat-UI)
+
 ---
 
 
