@@ -20,6 +20,11 @@
     <link>https://www.w3schools.com/xml2</link>
     <description>New XML2 tutorial on W3Schools</description>
   </item>
+      <item>
+    <title>XML3 Tutorial</title>
+    <link>https://www.w3schools.com/xml32</link>
+    <description>New XML23 tutorial on W3Schools</description>
+  </item>
 </channel>
 
 </rss>
