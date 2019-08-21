@@ -35,9 +35,9 @@ TPOT will automate the most tedious part of machine learning by intelligently ex
 
 H2O’s AutoML can be used for automating the machine learning workflow, which includes automatic training and tuning of many models within a user-specified time-limit. Stacked Ensembles – one based on all previously trained models, another one on the best model of each family – will be automatically trained on collections of individual models to produce highly predictive ensemble models which, in most cases, will be the top performing models in the AutoML Leaderboard.
 
-[Ax · Adaptive Experimentation Platform](https://www.notion.so/e4b34ef967f94ecda6ed3fde6a453e3a)
+[Ax · Adaptive Experimentation Platform](https://github.com/facebook/Ax)
 **Adaptive Experimentation Platform**
-![AX Logo](https://www.ax.dev/img/ax_wireframe.svg)
+![AX Logo](https://github.com/facebook/Ax/raw/master/website/static/img/ax_logo_lockup.svg)
 
 Developers and researchers alike face problems where they are confronted with a large space of possible ways to configure something –– whether those are "magic numbers" used for infrastructure or compiler flags, learning rates or other hyperparameters in machine learning, or images and calls-to-action used in marketing promotions. Selecting and tuning these configurations can often take time, resources, and quality of user experiences. Ax is a machine learning system to help automate this process, and help researchers and developers get the most out of their software in an optimally efficient way.
 
