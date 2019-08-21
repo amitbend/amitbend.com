@@ -18,26 +18,26 @@ I've created a list of libraries/frameworks to help you choose one.
 
 ### To the list!
 
-[EpistasisLab/tpot: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.](https://www.notion.so/ac33ca8bf76d4cd382173857885bdd12)
+[EpistasisLab/tpot: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.](https://github.com/EpistasisLab/tpot)
 
-[](https://www.notion.so/ac33ca8bf76d4cd382173857885bdd12#d46434ca57fd4175ba741f9fe27fec56)
+![](https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-logo.jpg)
 
 Consider TPOT your **Data Science Assistant**. TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
-TPOT Demo (credit - TPOT website)
+TPOT Demo (credit - TPOT github repo)
 
-[](https://www.notion.so/ac33ca8bf76d4cd382173857885bdd12#66f19a9f1fc541c1a19329d73832694d)
+![](https://github.com/EpistasisLab/tpot/raw/master/images/tpot-demo.gif)
 
 TPOT will automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best one for your data.
 
 
-[AutoML: Automatic Machine Learning — H2O 3.26.0.2 documentation](https://www.notion.so/3da787cae15c4a1a869ab38b49d0a2a5)
+[AutoML: Automatic Machine Learning — H2O 3.26.0.2 documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html?highlight=automl)
 
 H2O’s AutoML can be used for automating the machine learning workflow, which includes automatic training and tuning of many models within a user-specified time-limit. Stacked Ensembles – one based on all previously trained models, another one on the best model of each family – will be automatically trained on collections of individual models to produce highly predictive ensemble models which, in most cases, will be the top performing models in the AutoML Leaderboard.
 
 [Ax · Adaptive Experimentation Platform](https://github.com/facebook/Ax)
 **Adaptive Experimentation Platform**
-![AX Logo](https://github.com/facebook/Ax/raw/master/website/static/img/ax_logo_lockup.svg)
+![AX Logo](https://github.com/facebook/Ax/raw/master/website/static/img/ax_logo_lockup.svg?sanitize=true)
 
 Developers and researchers alike face problems where they are confronted with a large space of possible ways to configure something –– whether those are "magic numbers" used for infrastructure or compiler flags, learning rates or other hyperparameters in machine learning, or images and calls-to-action used in marketing promotions. Selecting and tuning these configurations can often take time, resources, and quality of user experiences. Ax is a machine learning system to help automate this process, and help researchers and developers get the most out of their software in an optimally efficient way.
 
@@ -60,7 +60,7 @@ BoTorch is a library for Bayesian Optimization built on PyTorch.
 Provides a modular and easily extensible interface for composing Bayesian optimization primitives, including probabilistic models, acquisition functions, and optimizers.
 
 
-[auto-sklearn — AutoSklearn 0.5.2 documentation](https://www.notion.so/c7950c4bf07e4150bb37e9c0eb07b27f)
+[auto-sklearn — AutoSklearn 0.5.2 documentation](https://automl.github.io/auto-sklearn/master/)
 **auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator**
 auto-sklearn frees a machine learning user from algorithm selection and hyperparameter tuning. It leverages recent advantages in Bayesian optimization, meta-learning and ensemble construction. 
 
@@ -77,6 +77,6 @@ Brute Force all scikit-learn models and all scikit-learn parameters with **fit**
 
 ### And then simply:
 
-[](https://github.com/ypeleg/HungaBunga/raw/master/HungaBunga.png?raw=true)
+![](https://github.com/ypeleg/HungaBunga/raw/master/HungaBunga.png?raw=true)
 
 *****
