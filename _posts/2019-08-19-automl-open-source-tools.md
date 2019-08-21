@@ -2,7 +2,7 @@
 layout: post
 title:  "Open source AutoML & Optimization tools"
 date:   2019-08-19 16:16:01 -0600
-categories: Python, AutoML, Machine Learning
+categories: Python AutoML Machine Learning
 seo:
     type: BlogPosting
     name: "Open source AutoML and Optimization tools"
@@ -14,6 +14,9 @@ seo:
 I was looking for an open-source alternative that mimic AutoML's algorithm.
 This can be implemented in various ways such as brute force, genetic algorithms and more.
 I've created a list of libraries/frameworks to help you choose one. 
+
+
+*****
 
 
 ## The List
