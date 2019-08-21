@@ -16,7 +16,7 @@ This can be implemented in various ways such as brute force, genetic algorithms 
 I've created a list of libraries/frameworks to help you choose one. 
 
 
-### To the list!
+## The List
 
 [EpistasisLab/tpot: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.](https://github.com/EpistasisLab/tpot)
 
@@ -30,10 +30,13 @@ TPOT Demo (credit - TPOT github repo)
 
 TPOT will automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best one for your data.
 
+*****
 
 [AutoML: Automatic Machine Learning — H2O 3.26.0.2 documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html?highlight=automl)
 
 H2O’s AutoML can be used for automating the machine learning workflow, which includes automatic training and tuning of many models within a user-specified time-limit. Stacked Ensembles – one based on all previously trained models, another one on the best model of each family – will be automatically trained on collections of individual models to produce highly predictive ensemble models which, in most cases, will be the top performing models in the AutoML Leaderboard.
+
+*****
 
 [Ax · Adaptive Experimentation Platform](https://github.com/facebook/Ax)
 **Adaptive Experimentation Platform**
@@ -51,6 +54,8 @@ Features:
 - Human-in-the-Loop Optimization
 - Visualizations
 
+*****
+
 [pytorch/botorch: Bayesian optimization in PyTorch](https://github.com/pytorch/botorch)
 **Botorch Beta**
 ![](https://github.com/pytorch/botorch/raw/master/botorch_logo_lockup.svg?sanitize=true)
@@ -59,11 +64,13 @@ BoTorch is a library for Bayesian Optimization built on PyTorch.
 
 Provides a modular and easily extensible interface for composing Bayesian optimization primitives, including probabilistic models, acquisition functions, and optimizers.
 
+*****
 
 [auto-sklearn — AutoSklearn 0.5.2 documentation](https://automl.github.io/auto-sklearn/master/)
 **auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator**
 auto-sklearn frees a machine learning user from algorithm selection and hyperparameter tuning. It leverages recent advantages in Bayesian optimization, meta-learning and ensemble construction. 
 
+*****
 
 [ypeleg/HungaBunga: HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!](https://github.com/ypeleg/HungaBunga)
 
@@ -79,4 +86,5 @@ Brute Force all scikit-learn models and all scikit-learn parameters with **fit**
 
 ![](https://github.com/ypeleg/HungaBunga/raw/master/HungaBunga.png?raw=true)
 
-*****
+No need to configure anything!
+
