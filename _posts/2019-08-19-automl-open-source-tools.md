@@ -16,7 +16,7 @@ This can be implemented in various ways such as brute force, genetic algorithms 
 I've created a list of libraries/frameworks to help you choose one. 
 
 
-### 
+### To the list!
 
 [EpistasisLab/tpot: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.](https://www.notion.so/ac33ca8bf76d4cd382173857885bdd12)
 
@@ -66,7 +66,7 @@ Provides a modular and easily extensible interface for composing Bayesian optimi
 auto-sklearn frees a machine learning user from algorithm selection and hyperparameter tuning. It leverages recent advantages in Bayesian optimization, meta-learning and ensemble construction. 
 
 
-[ypeleg/HungaBunga: HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!](https://www.notion.so/c8509a684688404e9abeec69f6e66348)
+[ypeleg/HungaBunga: HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!](https://github.com/ypeleg/HungaBunga)
 
 **Hunga-Bunga**
 
@@ -78,6 +78,6 @@ Brute Force all scikit-learn models and all scikit-learn parameters with **fit**
 
 ### And then simply:
 
-[](https://www.notion.so/c8509a684688404e9abeec69f6e66348#900c2bdcfdb94b9b9cf27b2958fd8d73)
+[](https://github.com/ypeleg/HungaBunga/raw/master/HungaBunga.png?raw=true)
 
 *****
