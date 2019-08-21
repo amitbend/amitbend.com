@@ -51,9 +51,9 @@ Features:
 - Human-in-the-Loop Optimization
 - Visualizations
 
-[pytorch/botorch: Bayesian optimization in PyTorch](https://www.notion.so/064dc36cf0ad4b1f860037b7a1cb6e25)
+[pytorch/botorch: Bayesian optimization in PyTorch](https://github.com/pytorch/botorch)
 **Botorch Beta**
-[](https://www.notion.so/8edbb98b116e446fb6cf5284cc947813#e9645aa9267f4a2abdedf79f44d68c3f)
+![](https://github.com/pytorch/botorch/raw/master/botorch_logo_lockup.svg)
 
 BoTorch is a library for Bayesian Optimization built on PyTorch.
 
