@@ -37,8 +37,7 @@ H2O’s AutoML can be used for automating the machine learning workflow, which i
 
 [Ax · Adaptive Experimentation Platform](https://www.notion.so/e4b34ef967f94ecda6ed3fde6a453e3a)
 **Adaptive Experimentation Platform**
-
-[](https://www.ax.dev/img/ax_wireframe.svg)
+![AX Logo](https://www.ax.dev/img/ax_wireframe.svg)
 
 Developers and researchers alike face problems where they are confronted with a large space of possible ways to configure something –– whether those are "magic numbers" used for infrastructure or compiler flags, learning rates or other hyperparameters in machine learning, or images and calls-to-action used in marketing promotions. Selecting and tuning these configurations can often take time, resources, and quality of user experiences. Ax is a machine learning system to help automate this process, and help researchers and developers get the most out of their software in an optimally efficient way.
 
