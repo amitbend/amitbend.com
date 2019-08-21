@@ -53,7 +53,7 @@ Features:
 
 [pytorch/botorch: Bayesian optimization in PyTorch](https://github.com/pytorch/botorch)
 **Botorch Beta**
-![](https://github.com/pytorch/botorch/raw/master/botorch_logo_lockup.svg)
+![](https://github.com/pytorch/botorch/raw/master/botorch_logo_lockup.svg?sanitize=true)
 
 BoTorch is a library for Bayesian Optimization built on PyTorch.
 
