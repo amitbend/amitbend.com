@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Open source SaaS starters"
+title:  "3 Open source SaaS starters"
 date:   2019-09-25 16:16:01 -0600
 categories: OpenSource
 seo:
     type: BlogPosting
-    name: "Open source SaaS starters - Node.js, Python"
+    name: "3 Open-Source SaaS starters - Node.js, Python"
 ---
 
 
