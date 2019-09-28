@@ -19,7 +19,10 @@ I love to focus on what matters, which is the core algorithm/business value behi
 
 ## The List
 
-[SaaS Python base application with Flask, Vue, Bootstrap, Webpack](https://github.com/CaravelKit/saas-base)
+
+*****
+
+### [SaaS Python base application with Flask, Vue, Bootstrap, Webpack](https://github.com/CaravelKit/saas-base)
 
 ![](https://camo.githubusercontent.com/af9a824546eade6f687340387b254a0079812585/68747470733a2f2f73616173696465612e696f2f7374617469632f696d616765732f6c6f67696e2e706e67)
 
@@ -37,7 +40,9 @@ I love to focus on what matters, which is the core algorithm/business value behi
 
 *****
 
-[Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node.js , Mongoose, MongoDB. Written with TypeScript](https://github.com/async-labs/saas)
+[SaaS Boilerplate](https://github.com/async-labs/saas)
+
+Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node.js , Mongoose, MongoDB. Written with TypeScript
 
 ![SaaS](https://user-images.githubusercontent.com/26158226/61417514-2891dd00-a8ac-11e9-97d4-53944fe8f897.png)
 ## Features
