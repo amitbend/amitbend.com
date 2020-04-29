@@ -134,7 +134,7 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 
 **Next tier cost**: Starts at $0.99 per month
 
-**Most suitable for**: 
+**Most suitable for**:
 
 * Light compute Backend
 * full-stack project
