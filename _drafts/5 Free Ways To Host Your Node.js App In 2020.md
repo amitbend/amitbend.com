@@ -32,20 +32,19 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 * Resource hibernation — Your project resources sleep after 30 minutes of inactivity, and must sleep 18 hours in a 72 hour period
 * Expiration — Your subscription automatically expires after 60 days; resubscribe as often as you like
 
-**Deployment:** Git (PAAS)<br> **Next tier cost**: Starts at $50/mo<br> **Most suitable for**: Small backend services, APIs, chatbots
+**Deployment:** Git (PAAS)
+
+**Next tier cost**: Starts at $50/mo
+
+**Most suitable for**: Small backend services, APIs, chatbots
 
 [https://www.openshift.com/products/pricing/](https://www.openshift.com/products/pricing/ "https://www.openshift.com/products/pricing/")
 
-### #2 — Openshift (Red Hat)
+### #2 — Dokkur
 
 **Highlights:**
 
-* 2GB RAM, 2GB Persistent storage
-* Unlimited network
-* 1 Project per account
-* Credit card — Not required
-* Support — Community
-* Considered secure
+* 2GB RAM, 
 
 **Limitations/The Catch:**
 
@@ -53,9 +52,13 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 * Resource hibernation — Your project resources sleep after 30 minutes of inactivity, and must sleep 18 hours in a 72 hour period
 * Expiration — Your subscription automatically expires after 60 days; resubscribe as often as you like
 
-**Deployment:** Git (PAAS)<br> **Next tier cost**: Starts at $50/mo<br> **Most suitable for**: Small backend services, APIs, chatbots
+**Deployment:** Git (PAAS)
 
-[https://www.openshift.com/products/pricing/](https://www.openshift.com/products/pricing/ "https://www.openshift.com/products/pricing/")
+**Next tier cost**: Starts at $50/mo
+
+**Most suitable for**: Small backend services, APIs, chatbots
+
+[http://dokkur.com](http://dokkur.com/ "http://dokkur.com/")
 
 ![](https://cdn-images-1.medium.com/max/800/1*kE9kg6ePfffBvXeCzSVm6g.png)
 
