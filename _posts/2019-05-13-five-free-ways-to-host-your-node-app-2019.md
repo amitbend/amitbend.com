@@ -5,7 +5,7 @@ date: 2019-05-13T22:16:01.000+00:00
 categories: Node.js
 seo:
   type: BlogPosting
-  name: 5 Free Ways To Host Your Node.js App In 2019
+  name: 5 Free Ways To Host Your Node.js App In 2020
 
 ---
 ### 5 Free Ways To Host Your Node.js App In 2020
