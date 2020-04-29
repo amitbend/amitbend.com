@@ -39,7 +39,7 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 * Resource hibernation — Your project resources sleep after 30 minutes of inactivity, and must sleep 18 hours in a 72 hour period
 * Expiration — Your subscription automatically expires after 60 days; resubscribe as often as you like
 
-**Deployment:** Git (PAAS)
+**Deployment:** Git (PaaS)
 
 **Next tier cost**: Starts at $50/mo
 
