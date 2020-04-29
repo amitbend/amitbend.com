@@ -1,0 +1,26 @@
+---
+label: Post template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: categories
+  label: categories
+- type: field_group
+  name: seo
+  label: seo
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: text
+    name: name
+    label: name
