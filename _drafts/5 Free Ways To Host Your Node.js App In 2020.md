@@ -40,25 +40,25 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 
 [https://www.openshift.com/products/pricing/](https://www.openshift.com/products/pricing/ "https://www.openshift.com/products/pricing/")
 
-### #2 — Dokkur
+![](https://firebase.google.com/images/social.png)
+
+### #2 — Firebase functions
 
 **Highlights:**
 
-* 2GB RAM, 
+* Invocations - 125K/month
+* GB-seconds - 40K/month
+* CPU-seconds - 40K/month
 
 **Limitations/The Catch:**
 
-* No custom domain
-* Resource hibernation — Your project resources sleep after 30 minutes of inactivity, and must sleep 18 hours in a 72 hour period
-* Expiration — Your subscription automatically expires after 60 days; resubscribe as often as you like
+* Outbound networking - Google services only. quite problematic for many cases
 
-**Deployment:** Git (PAAS)
+**Deployment:** CLI
 
-**Next tier cost**: Starts at $50/mo
+**Next tier cost**: Pay-as-you-go
 
-**Most suitable for**: Small backend services, APIs, chatbots
-
-[http://dokkur.com](http://dokkur.com/ "http://dokkur.com/")
+**Most suitable for**: Small backend services, APIs
 
 ![](https://cdn-images-1.medium.com/max/800/1*kE9kg6ePfffBvXeCzSVm6g.png)
 
@@ -93,7 +93,7 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 **Highlights:**
 
 * 512mb RAM, No Persistent storage
-* Unlimited network (?)
+* Unlimited network
 * Custom domain support
 * Credit card — Not required but your instance will have 550 hours a month (this mean it must sleep \~25% of the time), a verified account will give you 1000 hours a month (they will not charge you)
 * Support — Business hour support, 1+ day response times
@@ -102,11 +102,15 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 
 * Sleeps after 30 mins of inactivity, otherwise always on depending on your remaining monthly free dyno hours. **tip -> **you can use a free ping service who will keep your service — I’m using [https://uptimerobot.com/](https://uptimerobot.com/ "https://uptimerobot.com/")
 
-<br> **Deployment:** CLI /Git (PAAS)<br> **Next tier cost**: Starts at $7 per month<br> **Most suitable for**: Fullstack project, or any type of small project
+**Deployment:** CLI /Git (PAAS)
+
+**Next tier cost**: Starts at $7 per month
+
+**Most suitable for**: Fullstack project, or any type of small project
 
 [https://www.heroku.com/pricing](https://www.heroku.com/pricing "https://www.heroku.com/pricing")
 
-![](https://cdn-images-1.medium.com/max/800/1*31Y6x7fSKfdETiCjAORVbA.png)
+![now.sh](https://cdn-images-1.medium.com/max/800/1*31Y6x7fSKfdETiCjAORVbA.png "now.sh")
 
 ### #5 — Now.sh
 
@@ -121,34 +125,43 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 * Serverless invocations — 1,000 / day
 * Maximum Execution Time- 10 seconds
 
-<br>
-
 **Limitations/The Catch:**
 
 * Maximum File Size —  100mb
-* Had a personal experience of many service outages while hosting there
+* Compared to 2020 the service is better much stabilized, but still might be bumpy
 
-**Deployment:** CLI /Github integration/ Desktop app (PAAS)<br> **Next tier cost**: Starts at $0.99 per month<br> **Most suitable for**: Light compute Backend/fullstack project
+**Deployment:** CLI /Github integration/ Desktop app (PAAS)
+
+**Next tier cost**: Starts at $0.99 per month
+
+**Most suitable for**: 
+
+* Light compute Backend
+* full-stack project
 
 [https://zeit.co/pricing](https://zeit.co/pricing "https://zeit.co/pricing")
 
-![](https://cdn-images-1.medium.com/max/800/1*crKuSh8BTQdmVaD17hU1cQ.png)
+![glitch hosting free](https://cdn-images-1.medium.com/max/800/1*crKuSh8BTQdmVaD17hU1cQ.png "glitch hosting")
 
 ### #6— Glitch
 
 **Highlights:**
 
-* Glitch is a friendly community where everyone can discover and create the best stuff on the web — means you can also host app there!
+* Glitch is a friendly community where everyone can discover and create the best stuff on the web — means you can also host the app there!
 * No limits specified, run on a container
 * Unlimited Network
 * Custom domain support
 * Credit card — Not required
 
-<br>
-
 **Limitations/The Catch:**
 
 * By default —  All code is open source, but you can change it to private for free
+* 200MB disk space limit/ 512MB assets storage space.
+* 512MB RAM
 * It’s a bit hard to know the limits — this page can help [https://glitch.com/help/](https://glitch.com/help/ "https://glitch.com/help/")
 
-**Deployment:** Github, Gitlab, Bitbucket (PAAS)<br> **Next tier cost: **Null<br> **Most suitable for**: Pretty much everything, you should try it
+**Deployment:** Github, Gitlab, Bitbucket (PAAS)
+
+**Next tier cost**: None
+
+**Most suitable for**: Pretty much everything open-source, you should try it
