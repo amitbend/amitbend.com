@@ -165,7 +165,7 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 * By default —  All code is open source, but you can change it to private for free
 * 200MB disk space limit/ 512MB assets storage space.
 * 512MB RAM
-* It’s a bit hard to know the limits — this page can help 
+* For free users, Glitch apps go to sleep after five minutes of inactivity — if an app is waking up, your users might see a loading screen (we do this to keep our servers happy). Boosted apps don’t sleep and are always ready to go
 
 **Deployment:** Github, Gitlab, Bitbucket (PAAS)
 
@@ -174,3 +174,27 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 **Most suitable for**: Pretty much everything open-source, you should try it
 
 [https://glitch.com/pricing](https://glitch.com/pricing "https://glitch.com/pricing")
+
+### #7 Unubo
+
+**Highlights:**
+
+* 
+* 1 GB RAM, 1 CPU, and 500 MB storage.
+* Free SSL
+* 1 click rollbacks
+* Regions - Choice of Asia, Europe, and USA server locations
+* Custom domain support
+* Credit card — Not required
+
+**Limitations/The Catch:**
+
+* No paid plans - seems new
+
+**Deployment:** Github
+
+**Next tier cost**: to be announced 
+
+**Most suitable for**: Full-stack/ Backend projects
+
+[https://unubo.com/](https://unubo.com/ "https://unubo.com/")
