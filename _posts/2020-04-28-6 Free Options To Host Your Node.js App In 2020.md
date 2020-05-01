@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Options To Host Your Node.js App In 2020
-date: 2020-04-28 21:00:00 +0000
+date: 2020-04-28T21:00:00.000+00:00
 categories: Node.js
 seo:
   name: Six Options To Host Your Node.js App In 2020
@@ -165,10 +165,12 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 * By default —  All code is open source, but you can change it to private for free
 * 200MB disk space limit/ 512MB assets storage space.
 * 512MB RAM
-* It’s a bit hard to know the limits — this page can help [https://glitch.com/help/](https://glitch.com/help/ "https://glitch.com/help/")
+* It’s a bit hard to know the limits — this page can help 
 
 **Deployment:** Github, Gitlab, Bitbucket (PAAS)
 
-**Next tier cost**: None
+**Next tier cost**: 8$ monthly
 
 **Most suitable for**: Pretty much everything open-source, you should try it
+
+[https://glitch.com/pricing](https://glitch.com/pricing "https://glitch.com/pricing")
