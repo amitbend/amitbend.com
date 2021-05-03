@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 4 Open source SaaS starters
-date: 2019-09-25T16:16:01.000-06:00
+title: 5 Open source SaaS starters
+date: 2021-05-03 12:11:00 +0000
 categories: OpenSource
 seo:
   type: BlogPosting
@@ -10,8 +10,7 @@ seo:
 ---
 # What's that?
 
-Starting a SaaS business is never easy - and has lots of repeatable parts such as: authentication, billing, user management and more.
-I love to focus on what matters, which is the core algorithm/business value behind my SaaS.
+Starting a SaaS business is never easy - and has lots of repeatable parts such as: authentication, billing, user management, and more. I love to focus on what matters, which is the core algorithm/business value behind my SaaS.
 
 ***
 
@@ -190,3 +189,18 @@ DjaoDjin builds the infrastructure, so you can focus on your product.
 * Load balancing between frontend and backend with **Traefik**, so you can have both under the same domain, separated by path, but served by different containers.
 * Traefik integration, including Let's Encrypt **HTTPS** certificates automatic generation.
 * GitLab **CI** (continuous integration), including frontend and backend testing.
+
+### Dashboard
+
+[https://github.com/userdashboard/dashboard](https://github.com/userdashboard/dashboard "https://github.com/userdashboard/dashboard")
+
+Dashboard packages everything web apps need into reusable, modular software. It runs separately to your application so you have two web servers instead of one
+
+## Features:
+
+* single website or interface for your users
+* Dashboard requires NodeJS
+* Payment integration with Stripe
+* User management
+* Various hosting backends
+* Localization
