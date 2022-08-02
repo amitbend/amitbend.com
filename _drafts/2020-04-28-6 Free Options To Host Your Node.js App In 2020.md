@@ -1,22 +1,24 @@
 ---
 layout: post
-title: 6 Options To Host Your Node.js App In 2020
-date: 2020-04-28T21:00:00.000+00:00
+title: 6 Options To Host Your Node.js App In 2022
+date: 2022-08-01 21:00:00 +0000
 categories: Node.js
 seo:
-  name: Six Options To Host Your Node.js App In 2020
+  name: Six Options To Host Your Node.js App In 2022
   type: BlogPosting
 
 ---
-### 6 Free Ways To Host Your Node.js App In 2020
+### 6 Free Ways To Host Your Node.js App In 2022
 
 ![](/uploads/Free node.js hosting 2019.png)
 
+\[Updated August 2022\]
+
 So, you had a nice idea — you developed it, but now, you really don’t want to pay a monthly fee to a hosting provider. (And I totally understand you 😍) + corona crisis is just making you even cheaper.
 
-I've updated the info for 2020 and added new free providers!
+I've updated the info for 2022 and added new free providers!
 
-Don’t worry I’ve got your back! I listed here 6 of the best options with all the information you need — so let’s go started!
+Don’t worry I’ve got your back! I listed here 6 of the best options with all the information you need — so let’s start!
 
 ***
 
@@ -36,7 +38,7 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 **Limitations/The Catch:**
 
 * No custom domain
-* Resource hibernation — Your project resources sleep after 30 minutes of inactivity, and must sleep 18 hours in a 72 hour period
+* Resource hibernation — Your project resources sleep after 30 minutes of inactivity, and must sleep 18 hours in a 72-hour period
 * Expiration — Your subscription automatically expires after 60 days; resubscribe as often as you like
 
 **Deployment:** Git (PaaS)
@@ -67,31 +69,29 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 
 **Most suitable for**: Small backend services, APIs
 
-![](https://cdn-images-1.medium.com/max/800/1*kE9kg6ePfffBvXeCzSVm6g.png)
+![Deta logo](https://docs.deta.sh/img/logo.svg)
 
-### #3 — [Openode](https://www.openode.io/pricing)
+### #3 — [Deta.sh]()
 
 **Highlights:**
 
-* 100mb RAM, 1GB Persistent storage
-* Network: 100GB Bandwidth / Month
-* 1 Project per account
+* 128 MB of RAM
+* Running Nodejs 14.x by default
+* Unlimited projects (!)
 * Credit card — Not required
 * Support — Community
 
 **Limitations/The Catch:**
 
-* No custom domain
-* You must deploy at least once a week to keep an instance up. If it’s open-source, your source code is publicly available on our [Hub](https://www.openode.io/hub)
-* Your code will be open-sourced unless you declare your project is educational (for students)
+* Read-only file system. Only /tmp can be written to. It has a 512 MB storage limit - like a serverless function such as lambda
+* HTTP Payload size limit is 5.5 MB.
+* An execution times out after 10s
 
 **Deployment:** CLI — NPM module (PAAS)
 
-**Next tier cost**: Starts at $0.40 per month
+**Next tier cost**: space program - price is unknown
 
 **Most suitable for**: Small backend services, APIs, chatbots, open-source projects
-
-[https://www.openode.io/pricing](https://www.openode.io/pricing "https://www.openode.io/pricing")
 
 ![](https://cdn-images-1.medium.com/max/800/1*YXdkLfCaVACGo-w_rx72KA.png)
 
@@ -154,7 +154,7 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 
 **Highlights:**
 
-* Glitch is a friendly community where everyone can discover and create the best stuff on the web — means you can also host the app there!
+* Glitch is a friendly community where everyone can discover and create the best stuff on the web — which means you can also host the app there!
 * No limits specified, run on a container
 * Unlimited Network
 * Custom domain support
@@ -174,27 +174,3 @@ Don’t worry I’ve got your back! I listed here 6 of the best options with all
 **Most suitable for**: Pretty much everything open-source, you should try it
 
 [https://glitch.com/pricing](https://glitch.com/pricing "https://glitch.com/pricing")
-
-### #7 Unubo
-
-**Highlights:**
-
-* 
-* 1 GB RAM, 1 CPU, and 500 MB storage.
-* Free SSL
-* 1 click rollbacks
-* Regions - Choice of Asia, Europe, and USA server locations
-* Custom domain support
-* Credit card — Not required
-
-**Limitations/The Catch:**
-
-* No paid plans - seems new
-
-**Deployment:** Github
-
-**Next tier cost**: to be announced 
-
-**Most suitable for**: Full-stack/ Backend projects
-
-[https://unubo.com/](https://unubo.com/ "https://unubo.com/")
