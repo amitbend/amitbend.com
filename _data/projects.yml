@@ -1,8 +1,14 @@
-- title: Broke Guitarist
-  url: https://play.google.com/store/apps/details?id=com.ionicframework.ionicguitar315033
-  description: Broke Guitarist is a Cheap Guitar Gear Collection. We are looking around the web for the best deals for guitar gear, so you won't have to waste too much time renewing your stock.
-  category : Apps
-  img: https://lh3.googleusercontent.com/Yt2srkTYL7SMMFzLaVkNlEmwzfz1fx31Hk7xC6NbI835kH4Kv8f0zHgQXYwHSUSd668=s180-rw
+- title: Cloud AI 
+  url: https://cloudaiworld.com
+  description: Discover, learn and compare AI & Machine learning APIs, services, and MLOps tools. For developers, data scientists, and even non-techy users.
+  category : Directories
+  img: https://cloudaiworld.com/wp-content/uploads/2022/01/cropped-COPY-Logo-1.png
+
+- title: Madrasa
+  url: https://madrasafree.com
+  description: Open edx based online school for learning Arabic free
+  category : Education
+  img: https://i.ibb.co/vBCq7VM/LOGOMADRASANEW.png
 
 - title: Israeli Bots
   url: https://www.facebook.com/groups/109378076133016/
@@ -10,8 +16,3 @@
   category : Community
   img: https://i.ibb.co/RhM6V8N/17190791-1436976206373070-1028434498545859103-n.png
 
-- title: Madrasa
-  url: https://madrasafree.com
-  description: Open edx based online school for learning Arabic free
-  category : Education
-  img: https://i.ibb.co/vBCq7VM/LOGOMADRASANEW.png
