@@ -1,0 +1,22 @@
+---
+layout: post
+title: List of Available LLMs & GenAI models
+date: 2024-11-24 21:00:00 +0000
+categories: LLMs
+seo:
+  name: List of Available LLMs 
+  type: BlogPosting
+
+---
+## Available LLMs
+
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/) 
+- [Groq](https://groq.com/) - Fast
+- [Gemini](https://gemini.google.com/)
+- [QWEN 2.5 turbo](https://huggingface.co/spaces/Qwen/Qwen2.5-Turbo-1M-Demo)
+
+## Available image/video generation
+
+- [FLUX 1.1](https://fal.ai/models/fal-ai/flux-pro/v1.1-ultra)
+- [Recraft 3](https://replicate.com/recraft-ai/recraft-v3)
