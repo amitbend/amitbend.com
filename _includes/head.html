@@ -43,6 +43,34 @@
   <link rel="stylesheet" href="//cdn.rawgit.com/konpa/devicon/master/devicon.min.css">
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
   {% seo title=false %}
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "@id": "https://amitbend.com/#profile-page",
+    "url": "https://amitbend.com/",
+    "mainEntity": {
+      "@type": "Person",
+      "@id": "https://amitbend.com/#amit-bendor",
+      "name": "Amit Bendor",
+      "url": "https://amitbend.com/",
+      "jobTitle": "Head of AI & ML - Aura",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Unity",
+        "url": "https://unity.com/"
+      },
+      "image": "https://amitbend.com/assets/img/me2.png",
+      "sameAs": [
+        "https://www.linkedin.com/in/amitbendor",
+        "https://github.com/amitbend",
+        "https://medium.com/@amitbd"
+      ]
+    }
+  }
+  </script>
+  {% endif %}
 <script>
 if ("serviceWorker" in navigator) {
     if (navigator.serviceWorker.controller) {
@@ -60,4 +88,3 @@ if ("serviceWorker" in navigator) {
   }
   </script>
   <!-- <script src=""{{ "/serviceWorker1/pwabuilder-sw-register.js" | prepend: site.baseurl }}"" -->
-
